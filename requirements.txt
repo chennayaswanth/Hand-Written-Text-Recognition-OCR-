@@ -1,0 +1,6 @@
+transformers==4.36.2
+torch
+torchvision
+pillow
+gradio
+accelerate
